@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+* {
+  color: white;
+  font-family: Source Sans Pro;
+}
+
+html, body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  background-color: black;
+  justify-content: center;
+}
+
+audio {
+  margin: 0 auto 0 auto;
+  filter: invert(100%);
+  -moz-filter: invert(100%);
+  -webkit-filter: invert(100%);
+}
