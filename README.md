@@ -90,4 +90,4 @@ Then on the raspberry, use the scripts [install.sh](install.sh) with as argument
 
 ## custom player
 
-Although the Icecast server allows to directly access the stream, the static file [player.html](player.html) offers a nicer GUI for the player. It will be hosted at http://yohan.chalier.fr/radio/.
+Although the Icecast server allows to directly access the stream, the static file [player.html](player.html) offers a nicer GUI for the player. It will be hosted at https://rpi.yohan.chalier.fr/radio.
